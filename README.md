@@ -14,7 +14,7 @@ The playing rules of the game, score calculations and winning and losing situati
 
 ## Project Video
 
-[Click to watch or download the video.](./public/project_video.mp44)
+[Click to watch or download the video.](./public/project_video.mp4)
 
 ## Project Images
 
