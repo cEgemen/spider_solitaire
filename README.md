@@ -18,15 +18,15 @@ The playing rules of the game, score calculations and winning and losing situati
 
 ## Project Images
 
-![Alt Text](./public/1.png)
+![Alt Text](./public/1.jpg)
 
-![Alt Text](./public/2.png)
+![Alt Text](./public/2.jpg)
 
-![Alt Text](./public/3.png)
+![Alt Text](./public/3.jpg)
 
-![Alt Text](./public/4.png)
+![Alt Text](./public/4.jpg)
 
-![Alt Text](./public/5.png)
+![Alt Text](./public/5.jpg)
 
 
 
